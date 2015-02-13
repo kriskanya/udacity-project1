@@ -30,10 +30,6 @@ ul li:nth-child(-n+2) {
   margin-bottom: 10px;
 }
 
-.container {
-  margin-left: 28px;
-}
-
 .main-features {
   border: 1px solid #ccc;
   margin-top: 30px;
